@@ -1,0 +1,5 @@
+use vector and smart ptr,  raw ptr only for represent ownership
+
+cohesion: not print anything except main
+
+prepare for any change for prog. in the future
