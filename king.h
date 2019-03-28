@@ -1,6 +1,4 @@
-//
-// Created by Gabriel Gu on 2018-03-27.
-//
+
 
 #ifndef A5_KING_H
 #define A5_KING_H
